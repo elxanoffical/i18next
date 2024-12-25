@@ -1,0 +1,22 @@
+.container {
+    border: 1px solid black;
+    width: 1500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    h1 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .txt {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        h1 {
+            font-size: 20px;
+            font-weight: 700;
+            
+        }
+    }
+}
